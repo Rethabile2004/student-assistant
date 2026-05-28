@@ -44,6 +44,32 @@ That separation keeps the project easy to explain in interviews: the app is not 
 - Student management
 - Assigned subjects
 
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/afd93dcf-f596-4e42-a3d1-a477a5c128a0" alt="Login screen" width="220" />
+  <img src="https://github.com/user-attachments/assets/5c2495b8-d11c-444a-8d52-fa83b133487e" alt="Student Assistant screenshot" width="220" />
+  <img src="https://github.com/user-attachments/assets/968c3db4-f756-4c50-aa85-35b1d432177e" alt="Student Assistant screenshot" width="220" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5a2bd2f9-80ec-44e4-8a09-04f88db7cf16" alt="Student Assistant screenshot" width="220" />
+  <img src="https://github.com/user-attachments/assets/628bd6fc-faf5-4ac9-b71d-918637764f0f" alt="Student Assistant screenshot" width="220" />
+  <img src="https://github.com/user-attachments/assets/298c7174-7baa-407b-8a28-78b1378af7c2" alt="Student Assistant screenshot" width="220" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cf8792f0-93c3-4b6c-909f-ebcbb7377865" alt="Student Assistant screenshot" width="220" />
+  <img src="https://github.com/user-attachments/assets/650de8e2-6b85-4c84-9ab0-2362d490d4ac" alt="Student Assistant screenshot" width="220" />
+  <img src="https://github.com/user-attachments/assets/40820412-ffac-4b40-8550-f03e12854416" alt="Student Assistant screenshot" width="220" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/50063d56-9ef7-4753-9626-21d2e05a5df6" alt="Student Assistant screenshot" width="220" />
+  <img src="https://github.com/user-attachments/assets/a4372efb-1f4d-4973-8728-668af4f0cf54" alt="Student Assistant screenshot" width="220" />
+  <img src="https://github.com/user-attachments/assets/d8a71c4c-ee02-4486-95a1-30c8202545dd" alt="Student Assistant screenshot" width="220" />
+</p>
+
 ## Project Structure
 
 ```text
