@@ -1,0 +1,38 @@
+// https://github.com/Rethabile2004
+// https://www.linkedin.com/in/rethabile-eric-siase-6199a131a/
+// Rethabile Eric Siase
+
+class UserModel {
+  final String id;
+  final String email;
+  final String role;
+  final String? firstName;
+  final String? lastName;
+  final String? studentNumber;
+  final String? yearOfStudy;
+  final String? phone;
+
+  UserModel({
+    required this.id,
+    required this.email,
+    required this.role,
+    this.firstName,
+    this.lastName,
+    this.studentNumber,
+    this.yearOfStudy,
+    this.phone,
+  });
+
+  factory UserModel.fromMap(Map<String, dynamic> map) {
+    return UserModel(
+      id: map['id'],
+      email: map['email'],
+      role: map['role'] ?? 'student',
+      firstName: map['first_name'],
+      lastName: map['last_name'],
+      studentNumber: map['student_number'],
+      yearOfStudy: map['year_of_study'],
+      phone: map['phone'],
+    );
+  }
+}
