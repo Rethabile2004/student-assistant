@@ -147,18 +147,6 @@ flutter analyze
 flutter test
 ```
 
-## Suggested Repository Name
-
-`student-assistant`
-
-## Suggested Repository Description
-
-Flutter + Supabase app for student assistant applications, document uploads, admin review workflows, and role-based student management.
-
-## CV Project Summary
-
-Built a Flutter and Supabase student assistant application with authentication, document uploads, student application tracking, admin notifications, application review tools, and role-based account management.
-
 ## Author
 
 Rethabile Eric Siase  
